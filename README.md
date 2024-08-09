@@ -1,5 +1,6 @@
-<a href="https://pgc0419.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Pgc0419-F36D5D?style=flat&logo=Tistory&logoColor=000000"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgc0419&show_icons=true&theme=radical)
+<br>
+<a href="https://pgc0419.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Pgc0419-F36D5D?style=flat&logo=Tistory&logoColor=000000"/></a>
 
 <!--
 **pgc0419/pgc0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
