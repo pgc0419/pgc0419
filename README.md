@@ -1,4 +1,4 @@
-||[![GitHub Streak](https://streak-stats.demolab.com?user=pgc0419)](https://git.io/streak-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgc0419&show_icons=true&theme=default)|[![GitHub Streak](https://streak-stats.demolab.com?user=pgc0419)](https://git.io/streak-stats)|
 |------|---|
 
 <details>
