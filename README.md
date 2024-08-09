@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Django-2C2C32.svg?style=for-the-badge&logo=django&logoColor=22ABF3" />&nbsp
 </div>
