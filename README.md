@@ -1,7 +1,5 @@
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgc0419&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgc0419&layout=compact)
-</div>
 
 <div>
 <a href="https://pgc0419.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Pgc0419-F36D5D?style=flat&logo=Tistory&logoColor=000000"/></a>
