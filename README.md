@@ -4,7 +4,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://pgc0419.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-F36D5D?style=flat&logo=Tistory&logoColor=000000"/>&nbsp
+    <img src="https://img.shields.io/badge/Tistory-F36D5D?style=flat&logo=Tistory&logoColor=000000"/>
   </a>
 </div>
 
