@@ -1,4 +1,4 @@
-<a href="https://pgc0419.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=Tistory&logoColor=000000"/></a>
+<a href="https://pgc0419.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Pgc0419-F36D5D?style=flat&logo=Tistory&logoColor=000000"/></a>
 
 <!--
 **pgc0419/pgc0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
