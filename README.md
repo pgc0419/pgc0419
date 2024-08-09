@@ -1,6 +1,11 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgc0419&show_icons=true&theme=default)|[![GitHub Streak](https://streak-stats.demolab.com?user=pgc0419)](https://git.io/streak-stats)|
 |------|---|
 
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://pgc0419.tistory.com/" target="_blank">
