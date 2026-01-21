@@ -1,3 +1,3 @@
 <a href="https://github.com/pgc0419/gitanimals">
-  <img src="https://render.gitanimals.org/farms/pgc0419"/>
+  <img src="https://render.gitanimals.org/farms/pgc0419" width="1000"/>
 </a>
